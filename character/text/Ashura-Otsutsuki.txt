@@ -7,7 +7,8 @@ Clã: Otsutsuki \
 Aldeia: Desconhecida \
 
 Familiares: Hagoromo Otsutsuki(pai) |
-	    Indra Otsutsuki(irmão)\
+	    Indra Otsutsuki(irmão) |
+	    Hamura Otsutsuki(tio) \
 
 Principais Domínios : Ninjutsu(Estilo Madeira, Estilo Vento); Kekkei Genkai(Estilo Madeira); Kekkei Moura; Senjutsu \
 
